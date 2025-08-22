@@ -1,4 +1,4 @@
-# Speech-Text
+# Speech-to-Text
 This project is a Google Colab-based application that:
 
 1. Transcribes uploaded audio files (.wav or .mp3) into text using SpeechRecognition.
