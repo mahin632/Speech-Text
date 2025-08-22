@@ -1,13 +1,13 @@
 # Speech-Text
-1. This project is a Google Colab-based application that:
+This project is a Google Colab-based application that:
 
-2. Transcribes uploaded audio files (.wav or .mp3) into text using SpeechRecognition.
+1. Transcribes uploaded audio files (.wav or .mp3) into text using SpeechRecognition.
 
-3. Cleans the text (adds capitalization & punctuation).
+2. Cleans the text (adds capitalization & punctuation).
 
-4. Checks grammar mistakes using LanguageTool.
+3. Checks grammar mistakes using LanguageTool.
 
-5. Calculates an accuracy score for the transcription.
+4. Calculates an accuracy score for the transcription.
 
 # Features
 - Upload audio files in .wav or .mp3 format.
